@@ -1,6 +1,8 @@
 {
   "env": { 
-    "jest": true
+    "jest": true,
+    "verbose": true,
+    "testURL": "http://localhost/"
   },
   "globals": { 
   }

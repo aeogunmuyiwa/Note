@@ -13,6 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit test/e2e/specs",
     "build": "node build/build.js"
   },
+  "homepage": "https://aeogunmuyiwa.github.com/note/",
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.11",
     "element-ui": "^2.5.4",

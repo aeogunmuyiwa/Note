@@ -1,4 +1,5 @@
 var express = require('express');
+var express = require('express');
 var path = require('path');
 var serveStatic = require('serve-static');
 
@@ -9,6 +10,5 @@ var port = process.env.PORT || 3000;
 app.listen(port);
 
 console.log('server started ${port}');
-
 
 

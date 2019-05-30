@@ -6,16 +6,6 @@
 
 ## Build Setup
 
-##
-
-###
-
-###
-
-123
-
-#123##123#123##123#123##123
-
 ```bash
 # install dependencies
 npm install

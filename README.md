@@ -5,7 +5,10 @@
 > Project Idea: To create a note application where the datas are stored on the localstorage. the basis was to futher understand vue and models.
 
 ## Build Setup
+
 ##
+
+1
 
 ```bash
 # install dependencies
